@@ -1,0 +1,1 @@
+This project is a promotional webpage designed to advertise and facilitate the participation in a limited-time offer to claim a nike's gift card. The page is visually appealing, interactive, and responsive, featuring a countdown timer, call-to-action button, FAQ section, and user reviews.
